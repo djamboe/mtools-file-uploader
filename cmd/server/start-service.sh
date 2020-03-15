@@ -1,0 +1,1 @@
+./server -grpc-port=9091 -http-port=8081
